@@ -1,0 +1,36 @@
+.product {
+    height: 100vh;
+    padding-top: 100px;
+    position: relative;
+}
+
+.product-items {
+    position: absolute;
+    top: 60%;
+    transform: translateY(-40%);
+}
+
+.product > .row > .section-heading {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 2rem;
+}
+
+@media (max-width: 992px) {
+    .hide-md {
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+    .hide-sm {
+        display: none;
+    }
+}
+
+@media (max-width: 576px) {
+    .hide-xs {
+        display: none;
+    }
+}

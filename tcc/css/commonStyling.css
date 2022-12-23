@@ -1,0 +1,74 @@
+/* Navigation Bar  */
+
+.navbar-brand {
+    font-size: 2rem;
+}
+
+.nav-btn {
+    width: 130px;
+}
+
+.btn-outline-secondary {
+    border-right: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-bottom: none;
+    border-top: none;
+}
+
+/* Contact Button  */
+.contact-btn {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 2px solid black;
+    position: fixed;
+    right: 50px;
+    bottom: 30px;
+    padding: 10px;
+}
+
+.color-icon {
+    color: black;
+}
+
+/* Contact Button  */
+.contact-btn {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 2px solid black;
+    position: fixed;
+    right: 50px;
+    bottom: 30px;
+    padding: 10px;
+}
+
+.color-icon {
+    color: black;
+}
+
+/* Footer  */
+.footer-link:hover {
+    text-decoration: none;
+}
+
+.footer-header {
+    font-size: 2.5rem;
+    color: black;
+}
+
+/* Other  */
+
+body {
+    font-family: sans-serif;
+}
+
+.divider {
+    width: 95%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.card-title {
+    font-size: 2rem;
+}
